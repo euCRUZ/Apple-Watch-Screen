@@ -11,11 +11,6 @@ Visit the [deployed version](https://apple-watch-screen.vercel.app/) of the proj
 ### Prerequisites
 - Web browser (Google Chrome, Mozilla Firefox, Safari, etc.)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-
 ## Usage
 1. Open the `index.html` file in your preferred web browser.
 2. Navigate through the different sections using the navigation bar.
